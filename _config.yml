@@ -1,20 +1,4 @@
-name: 'Real Creative Digital '
-favicon: null
-layout_spectrum: 0.3583217207342386
 typography_spectrum: 0.5268510312307626
-title: 'Reputation Management and Social & Digital Media in Myrtle Beach'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.09151997766457498
   saturation: 0.12088337424211204
   rhythmicContrast: 0.8680727283935994
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3583217207342386
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 'Real Creative Digital '
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Reputation Management and Social & Digital Media in Myrtle Beach
+description: Promoting your brand made easy!
 purpose: []
